@@ -39,7 +39,7 @@ function exfunc() {
   var ans = document.querySelector(".acgA1");
   var clickvalue = document.querySelector("#ag4");
   stat = document.querySelector(".acg5");
-  clickvalue.value = "Check!";
+  clickvalue.value = "Click!";
   var value1 = document.querySelector("#ag2");
   var backBody = document.body;
   if (dis == 1) {
