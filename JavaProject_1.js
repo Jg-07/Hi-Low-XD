@@ -82,7 +82,9 @@ function exfunc() {
     if (Lscore != 20) {
       Lscore++;
     }
-    HLscore = Lscore;
+    if (HLscore <= Lscore) {
+      HLscore = Lscore;
+    }
     myScore.innerHTML = "🏅 Score : " + Lscore;
     myHscore.innerHTML = "🥇 HighScore : " + HLscore;
     clickvalue.value = "Again!!";
