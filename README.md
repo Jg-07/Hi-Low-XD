@@ -22,5 +22,7 @@ Great game to play to test how much you are lucky : )🚀
  
 ---
 
-### XD I hope you like my work , they are simple👦 but they are rich💯 in concepts 😀 
+### XD I hope you like my work , they are simple👦 but they are rich💯 in concepts 😀.
+
+👩‍💻**Please provide a star⭐ to the repo which could be a big support🙌 to many creaters🤓 like me**
 
